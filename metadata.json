@@ -1,0 +1,6 @@
+{
+  "name": "AI Personal Learning Roadmap Generator",
+  "description": "Generate personalized AI study plans based on your current skills, career goals, and daily study time with interactive milestones, quizzes, practice projects, and adaptive recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
